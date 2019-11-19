@@ -9,6 +9,7 @@
 #include <stdio.h>
 #include<time.h>
 #include<stdlib.h>
+char letras[]={'A'};
 int n=0;
 int e;
 int O0=0;
